@@ -3,15 +3,19 @@
 Basic - Build A Tribute Page:
 
 tributePage.html
+
 tributePage.css
 
 -- Intermediate --
 
 Random Quote Machine:
 
+
 Show The Local Weather:
 
+
 Build A Wikipedia Viewer:
+
 
 Use Twitch.tv JSON API:
 
