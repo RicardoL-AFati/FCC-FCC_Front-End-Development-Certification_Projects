@@ -1,6 +1,8 @@
 # FCC_Front-End-Development-Certification_Projects_BasicAndIntermediate
 
-Basic Project - tributePage:
+-- Basic -- 
+
+tributePage
 
 -- Intermediate Projects --
 
