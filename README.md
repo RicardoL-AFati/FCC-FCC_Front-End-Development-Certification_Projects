@@ -1,21 +1,17 @@
 # FCC_Front-End-Development-Certification_Projects_BasicAndIntermediate
 
-Basic - Build A Tribute Page:
+Basic Project - tributePage:
 
-tributePage.html
+-- Intermediate Projects --
 
-tributePage.css
-
--- Intermediate --
-
-Random Quote Machine:
+randomQuoteMachine
 
 
-Show The Local Weather:
+showTheLocalWeather
 
 
-Build A Wikipedia Viewer:
+buildAWikipediaViewer
 
 
-Use Twitch.tv JSON API:
+twitch.tvJsonAPI
 
