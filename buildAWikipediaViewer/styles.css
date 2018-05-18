@@ -1,0 +1,45 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+div.ui.grid {
+    height: 100%;
+    width: 100%;
+}
+#sideDiv {
+    background-color: #a32e0b;     
+}
+
+#middleDiv {
+ margin: 0;
+ background: url(https://images.unsplash.com/photo-1473163928189-364b2c4e1135?ixlib=rb-0.3.5&s=38538dc7cb94a76ee5504367d5795bdf&auto=format&fit=crop&w=1950&q=80);
+
+}
+
+#quoteDiv {
+    margin: 30em 5em;
+}
+
+#quoteElements {
+    margin: 2% 8%;
+}
+
+#quoteText {
+    margin-bottom: 2%;
+}
+#quoteElements button {
+    color: whitesmoke;
+    background-color: #a32e0b;
+}
+
+#author, #quote, #quoteIcon {
+    color: #a32e0b;
+    border: none;
+}
+
+#author {
+    text-align: right;
+    margin-right: 15%;
+}
+

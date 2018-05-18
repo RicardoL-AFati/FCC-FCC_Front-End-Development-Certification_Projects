@@ -1,0 +1,21 @@
+{
+  "name": "randomquote",
+  "version": "1.0.0",
+  "description": "Page that generates random quotes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Ledesma",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "semantic-ui": "^2.3.1",
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
