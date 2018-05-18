@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Wikipedia Viewer | Ricardo Ledesma</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="app.css">
+</head>
+<body>
+
+
+<div class="container">
+  
+  <div id="header">
+    <h1>FreeCodeCamp Wikipedia-Viewer</h1>
+    <p id="selfLinks"><small class="text-muted"><a href="#">Coded by - Ricardo Ledesma</a></small></p>
+    <p id="random"><a target="_blank" href="https://en.wikipedia.org/wiki/Special:Random">Click here for a random link</a></p>
+  </div>
+
+  <div class="input-group mb-3">
+    <input type="text" id="searchTerm" class="form-control" placeholder="Wikipedia articles about...">
+    <div class="input-group-append">
+        <button class="btn btn-outline-secondary" id="search" type="submit">Search</button>  
+    </div>
+
+    <div class="results"></div>
+  </div>
+
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+<script src="wikiViewer.js"></script>    
+
+</body>
+</html>
